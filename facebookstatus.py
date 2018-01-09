@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Jan  9 03:00:26 2018
-
-@author: ramesh
+UpdateFacebookStatus
+@author: ramesh rawal
+Update facebook status written python program
 """
 
 import facebook
